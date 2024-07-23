@@ -19,15 +19,15 @@ The following checklist is formatted as below:
 - [x] `Documentation Again` 7
 - [x] `Documentation Again` 8
 - [x] `Documentation Again` 9
-- [ ] `Easy 1` 1
-- [ ] `Easy 1` 2
-- [ ] `Easy 1` 3
-- [ ] `Easy 1` 4
-- [ ] `Easy 1` 5
-- [ ] `Easy 1` 6
-- [ ] `Easy 1` 7
-- [ ] `Easy 1` 8
-- [ ] `Easy 1` 9
+- [x] `Easy 1` 1
+- [x] `Easy 1` 2
+- [x] `Easy 1` 3
+- [x] `Easy 1` 4
+- [x] `Easy 1` 5
+- [x] `Easy 1` 6
+- [x] `Easy 1` 7
+- [x] `Easy 1` 8
+- [x] `Easy 1` 9
 - [ ] `Easy 2` 1
 - [ ] `Easy 2` 2
 - [ ] `Easy 2` 3
