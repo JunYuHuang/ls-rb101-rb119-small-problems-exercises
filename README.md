@@ -10,15 +10,15 @@ The following checklist is formatted as below:
 { Exercise Class } { Exercise Number }
 ```
 
-- [ ] `Documentation Again` 1
-- [ ] `Documentation Again` 2
-- [ ] `Documentation Again` 3
-- [ ] `Documentation Again` 4
-- [ ] `Documentation Again` 5
-- [ ] `Documentation Again` 6
-- [ ] `Documentation Again` 7
-- [ ] `Documentation Again` 8
-- [ ] `Documentation Again` 9
+- [x] `Documentation Again` 1
+- [x] `Documentation Again` 2
+- [x] `Documentation Again` 3
+- [x] `Documentation Again` 4
+- [x] `Documentation Again` 5
+- [x] `Documentation Again` 6
+- [x] `Documentation Again` 7
+- [x] `Documentation Again` 8
+- [x] `Documentation Again` 9
 - [ ] `Easy 1` 1
 - [ ] `Easy 1` 2
 - [ ] `Easy 1` 3
