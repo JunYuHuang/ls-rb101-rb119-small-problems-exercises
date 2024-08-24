@@ -48,16 +48,16 @@ The following checklist is formatted as below:
 - [x] `Easy 3` 8
 - [x] `Easy 3` 9
 - [x] `Easy 3` 10
-- [ ] `Easy 4` 1
-- [ ] `Easy 4` 2
-- [ ] `Easy 4` 3
-- [ ] `Easy 4` 4
-- [ ] `Easy 4` 5
-- [ ] `Easy 4` 6
-- [ ] `Easy 4` 7
-- [ ] `Easy 4` 8
-- [ ] `Easy 4` 9
-- [ ] `Easy 4` 10
+- [x] `Easy 4` 1
+- [x] `Easy 4` 2
+- [x] `Easy 4` 3
+- [x] `Easy 4` 4
+- [x] `Easy 4` 5
+- [x] `Easy 4` 6
+- [x] `Easy 4` 7
+- [x] `Easy 4` 8
+- [x] `Easy 4` 9
+- [x] `Easy 4` 10
 - [ ] `Easy 5` 1
 - [ ] `Easy 5` 2
 - [ ] `Easy 5` 3
