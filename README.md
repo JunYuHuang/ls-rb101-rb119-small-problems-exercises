@@ -69,16 +69,16 @@ The following checklist is formatted as below:
 - [x] `Easy 5` 9
 - [x] `Easy 5` 10
 - [x] `Easy 5` 11
-- [ ] `Easy 6` 1
-- [ ] `Easy 6` 2
-- [ ] `Easy 6` 3
-- [ ] `Easy 6` 4
-- [ ] `Easy 6` 5
-- [ ] `Easy 6` 6
-- [ ] `Easy 6` 7
-- [ ] `Easy 6` 8
-- [ ] `Easy 6` 9
-- [ ] `Easy 6` 10
+- [x] `Easy 6` 1
+- [x] `Easy 6` 2
+- [x] `Easy 6` 3
+- [x] `Easy 6` 4
+- [x] `Easy 6` 5
+- [x] `Easy 6` 6
+- [x] `Easy 6` 7
+- [x] `Easy 6` 8
+- [x] `Easy 6` 9
+- [x] `Easy 6` 10
 - [ ] `Easy 7` 1
 - [ ] `Easy 7` 2
 - [ ] `Easy 7` 3
