@@ -90,16 +90,16 @@ The following checklist is formatted as below:
 - [x] `Easy 7` 9
 - [x] `Easy 7` 10
 - [x] `Easy 7` 11
-- [ ] `Easy 8` 1
-- [ ] `Easy 8` 2
-- [ ] `Easy 8` 3
-- [ ] `Easy 8` 4
-- [ ] `Easy 8` 5
-- [ ] `Easy 8` 6
-- [ ] `Easy 8` 7
-- [ ] `Easy 8` 8
-- [ ] `Easy 8` 9
-- [ ] `Easy 8` 10
+- [x] `Easy 8` 1
+- [x] `Easy 8` 2
+- [x] `Easy 8` 3
+- [x] `Easy 8` 4
+- [x] `Easy 8` 5
+- [x] `Easy 8` 6
+- [x] `Easy 8` 7
+- [x] `Easy 8` 8
+- [x] `Easy 8` 9
+- [x] `Easy 8` 10
 - [ ] `Easy 9` 1
 - [ ] `Easy 9` 2
 - [ ] `Easy 9` 3
