@@ -111,16 +111,16 @@ The following checklist is formatted as below:
 - [x] `Easy 9` 9
 - [x] `Easy 9` 10
 - [x] `Easy 9` 11
-- [ ] `Medium 1` 1
-- [ ] `Medium 1` 2
-- [ ] `Medium 1` 3
-- [ ] `Medium 1` 4
-- [ ] `Medium 1` 5
-- [ ] `Medium 1` 6
-- [ ] `Medium 1` 7
-- [ ] `Medium 1` 8
-- [ ] `Medium 1` 9
-- [ ] `Medium 1` 10
+- [x] `Medium 1` 1
+- [x] `Medium 1` 2
+- [x] `Medium 1` 3
+- [x] `Medium 1` 4
+- [x] `Medium 1` 5
+- [x] `Medium 1` 6
+- [x] `Medium 1` 7
+- [x] `Medium 1` 8
+- [x] `Medium 1` 9
+- [x] `Medium 1` 10
 - [ ] `Medium 2` 1
 - [ ] `Medium 2` 2
 - [ ] `Medium 2` 3
