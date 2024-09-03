@@ -121,16 +121,17 @@ The following checklist is formatted as below:
 - [x] `Medium 1` 8
 - [x] `Medium 1` 9
 - [x] `Medium 1` 10
-- [ ] `Medium 2` 1
-- [ ] `Medium 2` 2
-- [ ] `Medium 2` 3
-- [ ] `Medium 2` 4
-- [ ] `Medium 2` 5
-- [ ] `Medium 2` 6
-- [ ] `Medium 2` 7
-- [ ] `Medium 2` 8
-- [ ] `Medium 2` 9
-- [ ] `Medium 2` 10
+- [x] `Medium 2` 1
+- [x] `Medium 2` 2
+- [x] `Medium 2` 3
+- [x] `Medium 2` 4
+- [x] `Medium 2` 5
+- [x] `Medium 2` 6
+- [x] `Medium 2` 7
+- [x] `Medium 2` 8
+- [x] `Medium 2` 9
+- [x] `Medium 2` 10
+- [x] `Medium 2` 11
 - [ ] `Advanced 1` 1
 - [ ] `Advanced 1` 2
 - [ ] `Advanced 1` 3
