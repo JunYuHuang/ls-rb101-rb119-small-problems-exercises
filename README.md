@@ -141,14 +141,14 @@ The following checklist is formatted as below:
 - [ ] `Advanced 1` 7
 - [ ] `Advanced 1` 8
 - [ ] `Advanced 1` 9
-- [ ] `Debugging` 1
-- [ ] `Debugging` 2
-- [ ] `Debugging` 3
-- [ ] `Debugging` 4
-- [ ] `Debugging` 5
-- [ ] `Debugging` 6
-- [ ] `Debugging` 7
-- [ ] `Debugging` 8
-- [ ] `Debugging` 9
-- [ ] `Debugging` 10
-- [ ] `Debugging` 11
+- [x] `Debugging` 1
+- [x] `Debugging` 2
+- [x] `Debugging` 3
+- [x] `Debugging` 4
+- [x] `Debugging` 5
+- [x] `Debugging` 6
+- [x] `Debugging` 7
+- [x] `Debugging` 8
+- [x] `Debugging` 9
+- [x] `Debugging` 10
+- [x] `Debugging` 11
