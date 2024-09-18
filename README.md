@@ -133,12 +133,12 @@ The following checklist is formatted as below:
 - [x] `Medium 2` 10
 - [x] `Medium 2` 11
 - [ ] `Advanced 1` 1
-- [ ] `Advanced 1` 2
+- [x] `Advanced 1` 2
 - [ ] `Advanced 1` 3
 - [ ] `Advanced 1` 4
 - [ ] `Advanced 1` 5
-- [ ] `Advanced 1` 6
-- [ ] `Advanced 1` 7
+- [x] `Advanced 1` 6
+- [x] `Advanced 1` 7
 - [ ] `Advanced 1` 8
 - [ ] `Advanced 1` 9
 - [x] `Debugging` 1
